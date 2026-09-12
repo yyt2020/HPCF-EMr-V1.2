@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+OUTPUT/
+input/acceleration_records/
+input/station_metadata.csv
