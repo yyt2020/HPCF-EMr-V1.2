@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.2
+matplotlib==3.10.8
+obspy==1.4.2
+tqdm==4.67.1
+esi-core==1.2.1
