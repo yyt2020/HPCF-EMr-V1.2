@@ -34,7 +34,11 @@ records.
 
 The English source code, configuration file, dependency specification, input
 metadata template, and shareable processed result tables are provided in this
-repository. No restricted CENC waveform files are included.
+repository. The original code and documentation in this repository are
+available under the MIT License (see `LICENSE`). No restricted CENC waveform
+files are included.
 
 For reproducible citation of a fixed version, users may refer to a tagged
 GitHub release or a persistent archive of a release when one is available.
+Third-party software and external implementations remain subject to their own
+licenses and terms.
