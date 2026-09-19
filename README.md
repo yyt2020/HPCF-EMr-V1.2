@@ -15,6 +15,10 @@ author-provided implementation. Language, filenames, portable paths, and the
 minimum interface repairs needed to connect the three original stages were the
 only code-level changes.
 
+The original code in this repository is distributed under the MIT License; see
+`LICENSE`. Third-party software and external implementations remain subject to
+their own licenses and terms.
+
 ## Core workflow
 
 1. `01_fas_corner_frequency.py` calculates the Fourier amplitude spectrum
@@ -34,6 +38,7 @@ only code-level changes.
 
 ```text
 HPCF-EMr-V1.2/
+|-- LICENSE
 |-- 01_fas_corner_frequency.py
 |-- 02_em_score.py
 |-- 03_aic_hpcf.py
@@ -177,5 +182,6 @@ runtime dependencies of this three-stage package:
   <https://www.mathworks.com/matlabcentral/fileexchange/57729-an-automated-p-phase-arrival-time-picker-with-snr-output>
 
 See `DATA_AVAILABILITY.md` for data-access and code-availability information.
-No software or data license has been assigned. The repository owner should
-select licenses compatible with all included materials before broader reuse.
+The MIT License applies to the original code and documentation in this
+repository. Third-party software, external implementations, and restricted
+data remain subject to their own licenses, terms, and access conditions.
